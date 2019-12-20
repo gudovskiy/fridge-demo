@@ -1,0 +1,25 @@
+{
+  "name": "fridge",
+  "version": "1.0.0",
+  "description": "Fridge Demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "npm test"
+  },
+  "keywords": [
+    "beta",
+    "fridge"
+  ],
+  "author": "Anonympus",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.3",
+    "request": "^2.88.0",
+    "amqplib": "^0.5.3",
+    "pm2": "^3.2.9",
+    "uuid": "^3.3.2"
+  }
+}
