@@ -1,3 +1,8 @@
+# NeurIPS 2019 Poster
+<div align="center">
+  <img src="poster.png" width="640px">
+</div>
+
 # Facebook chatbot
 Facebook app has to be set up according to the official documentation [Facebook for Developers](https://developers.facebook.com/docs/messenger-platform/).
 
@@ -35,8 +40,3 @@ VERIFICATION_TOKEN
 
 # Demo video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UkapMNcXlq8/0.jpg)](https://www.youtube.com/watch?v=UkapMNcXlq8)
-
-# NeurIPS 2019 Poster
-<div align="center">
-  <img src="poster.png" width="800px">
-</div>
