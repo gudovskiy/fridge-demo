@@ -3,6 +3,22 @@
   <img src="poster.png" width="800px">
 </div>
 
+# BibTeX citation
+```bash
+@article{chat-fridge,
+	author = {Denis Gudovskiy and Gyuri Han and Takuya Yamaguchi and Sotaro Tsukizawa},
+	journal = {arXiv preprint arXiv:1912.?????},
+	title = {Smart Home Appliances: Chat with Your Fridge},
+	year = {2019}
+}
+```
+
+# Demo video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UkapMNcXlq8/0.jpg)](https://www.youtube.com/watch?v=UkapMNcXlq8)
+
+# GitHubs for FRIDGR dataset and reasoning model
+[FRIDGR Dataset](https://github.com/gudovskiy/fridge-dataset/) and [Fridge Model](https://github.com/gudovskiy/fridge-model)
+
 # Facebook chatbot
 Facebook app has to be set up according to the official documentation [Facebook for Developers](https://developers.facebook.com/docs/messenger-platform/).
 
@@ -24,19 +40,3 @@ CLOUDAMQP_URL
 PAGE_ACCESS_TOKEN
 VERIFICATION_TOKEN
 ```
-
-# GitHubs for FRIDGR dataset and reasoning model
-[FRIDGR Dataset](https://github.com/gudovskiy/fridge-dataset/) and [Fridge Model](https://github.com/gudovskiy/fridge-model)
-
-# BibTeX citation
-```bash
-@article{chat-fridge,
-	author = {Denis Gudovskiy and Gyuri Han and Takuya Yamaguchi and Sotaro Tsukizawa},
-	journal = {arXiv preprint arXiv:1912.?????},
-	title = {Smart Home Appliances: Chat with Your Fridge},
-	year = {2019}
-}
-```
-
-# Demo video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UkapMNcXlq8/0.jpg)](https://www.youtube.com/watch?v=UkapMNcXlq8)
