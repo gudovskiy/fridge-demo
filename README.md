@@ -38,5 +38,5 @@ VERIFICATION_TOKEN
 
 # NeurIPS 2019 Poster
 <div align="center">
-  <img src="images/poster.png" width="800px">
+  <img src="poster.png" width="800px">
 </div>
