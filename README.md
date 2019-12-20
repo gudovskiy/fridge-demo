@@ -1,6 +1,6 @@
 # NeurIPS 2019 Poster
 <div align="center">
-  <img src="poster.png" width="640px">
+  <img src="poster.png" width="800px">
 </div>
 
 # Facebook chatbot
