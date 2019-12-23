@@ -1,3 +1,6 @@
+# Demo app code for
+**[Smart Home Appliances: Chat with Your Fridge](https://arxiv.org/pdf/1912.09589.pdf)**
+
 ## NeurIPS 2019 Poster
 <div align="center">
   <img src="poster.png" width="800px">
