@@ -7,7 +7,7 @@
 ```bash
 @article{chat-fridge,
 	author = {Denis Gudovskiy and Gyuri Han and Takuya Yamaguchi and Sotaro Tsukizawa},
-	journal = {arXiv preprint arXiv:1912.?????},
+	journal = {arXiv preprint arXiv:1912.09589},
 	title = {Smart Home Appliances: Chat with Your Fridge},
 	year = {2019}
 }
