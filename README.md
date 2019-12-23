@@ -1,21 +1,6 @@
 # Demo app code for
 **[Smart Home Appliances: Chat with Your Fridge](https://arxiv.org/pdf/1912.09589.pdf)**
 
-## NeurIPS 2019 Poster
-<div align="center">
-  <img src="poster.png" width="800px">
-</div>
-
-## BibTeX citation
-```bash
-@article{chat-fridge,
-	author = {Denis Gudovskiy and Gyuri Han and Takuya Yamaguchi and Sotaro Tsukizawa},
-	journal = {arXiv preprint arXiv:1912.09589},
-	title = {Smart Home Appliances: Chat with Your Fridge},
-	year = {2019}
-}
-```
-
 ## Demo video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UkapMNcXlq8/0.jpg)](https://www.youtube.com/watch?v=UkapMNcXlq8)
 
